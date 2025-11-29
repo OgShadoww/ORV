@@ -7,6 +7,6 @@ Its designed for rereading or catching up from where you left off  without readi
 
 <div align="center">
 
- Fetch chapter  Extract text  Send to Ollama  Read concise retelling 
+ Fetch chapter ->  Extract text ->  Send to Ollama ->  Read concise retelling 
 
 </div>
